@@ -17,9 +17,6 @@ export default {
     VUserSearchForm,
     VUserProfile
   },
-  data: () => ({
-
-  }),
   computed: {
     ...mapState(['user'])
   },
